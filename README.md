@@ -80,17 +80,15 @@ The database is hosted in Firebase's asia-southeast1 region and supports real-ti
 ## Screenshots
 
 ## Screenshots
+## Screenshots
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/db0569a3-b79c-4c3d-af5f-2e81dcfe5609" width="200" /></td>
-    <td><img src="https://github.com/user-attachments/assets/884e0703-52fa-49d6-a2f3-a3baec8a27fc" width="200" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/b34097e5-90ca-49f6-9952-18bb0bd07489" width="200" /></td>
-    <td><img src="https://github.com/user-attachments/assets/b33ccdb8-5c9c-45eb-9d59-831633d56719" width="200" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db0569a3-b79c-4c3d-af5f-2e81dcfe5609" width="150" />
+  <img src="https://github.com/user-attachments/assets/884e0703-52fa-49d6-a2f3-a3baec8a27fc" width="150" />
+  <img src="https://github.com/user-attachments/assets/b34097e5-90ca-49f6-9952-18bb0bd07489" width="150" />
+  <img src="https://github.com/user-attachments/assets/b33ccdb8-5c9c-45eb-9d59-831633d56719" width="150" />
+</p>
+
 
 
 
