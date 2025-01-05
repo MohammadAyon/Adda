@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_user"
+        android:checked="true"
+        android:icon="@drawable/round_perm_identity_24"
+        android:title="User" />
+
+    <item
+        android:id="@+id/nav_tea"
+        android:icon="@drawable/round_coffee_24"
+        android:title="Tea" />
+
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/round_chat_bubble_outline_24"
+        android:title="Chat"/>
+
+</menu>
