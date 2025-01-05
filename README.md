@@ -77,9 +77,7 @@ adda-app-8c258-default-rtdb.asia-southeast1/
 
 The database is hosted in Firebase's asia-southeast1 region and supports real-time chat functionality with both text and image messages.
 
-## Screenshots
 
-## Screenshots
 ## Screenshots
 
 <p align="center">
